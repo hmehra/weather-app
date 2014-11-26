@@ -7,7 +7,6 @@ The app fetches weather information of worldwide cities based on name or US
 Zip codes using Yahoo! Geoplanet and Yahoo! RSS Weather feed API's.
 
 #### Program Organisation -
-The program is divided into 4 broad regions -
 1. HTML is used to display the basic form and gather the relevant data.
 2. Javascript is used to validate the form.
 3. CSS is used to apply styling to the document.
