@@ -2,7 +2,7 @@
 $xmlElement = new SimpleXMLElement('<weather/>');
 header('Content-type: text/xml');
   error_reporting(0);
-  $yid = "ntYIUxTV34Fej5SZcRUw9FjdZsFnhiAxhYHlp1yqV701aBkxDfZlxs3MQfbHgvZNIv9DdmzsiQ--"; 	
+  $yid = "PUT YOUR KEY HERE"; 	
   
   if($_SERVER["REQUEST_METHOD"] == "GET")
   {    	
